@@ -35,7 +35,7 @@ A list of tags used in the corpus, and their descriptions:
 
 A list of tags that will be added to the corpus in the future, and their descriptions:
 
-\tx = processed sentence with explicit division into morphemes (alternation of consonants, assimilation)
+\tx = processed sentence with explicit division into morphemes (consonant alternation, assimilation)
 
 \comm = comments, additional information to the sentences
 
