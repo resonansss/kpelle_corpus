@@ -15,7 +15,7 @@ The texts were pre-processed and glossed, each line was assigned its own tag.
 
 The texts are converted into a database using Python code using the SQLite library.
 
-# Tags (realized)
+# Tags (released)
 
 A list of tags used in the corpus, and their descriptions:
 
