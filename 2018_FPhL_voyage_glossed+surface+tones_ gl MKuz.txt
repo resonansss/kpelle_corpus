@@ -1,0 +1,490 @@
+\id	0																																						
+\srf	Dà	kɛ́,	dà	kɛ́	!'míi	nàa	Francis	Phalazar	Loua,	voila,	voila	c’est	ça,	donc…	‘Phalazar	yílí	mùkùlòà	ɓáá	Hwàláázà																				
+\ftf	–	on	m’appelle	Francis,	Phalazar	veut	dire	Hwàláazà																															
+\mb	Dà	kɛ́,	dà	kɛ́	míi	làa	Francis	Phalazar	Loua	voila,	voila	c’est	ça,	donc…	Phalazar	yílí	mu-̀kùlòà	ɓáá	Hwàláázà																				
+\ge	3.and	do	3.and	do	1sg/on	1sg/name	Francis	Phalazar	Loua	well	well	this.is	what	so	Phalazar	this	sense	be	Hwalaaza																				
+\ps	conj	v	conj	v	pp	n	n	n	n	itj	itj	pron	pron	conj	n	pron	n	cop	n																				
+																																							
+\id	1																																						
+\srf	Donc	kú	héɣe	Cònákri	%,	'ɲáa	kwà	'níê	%																														
+\ftf	nous	avons	quitté	Conakry,	moi	et	mon	frère	ainé,																														
+\mb	Donc	kú	héɣe	Cònákri	ɲáa	kwà	líê																																
+\ge	so	1pl.excl.bse	leave	Conakry	1sg.aut	1.excl.and	1sg/elder.sibling																																
+\ps	conj	pm	v	n	pron	conj	n																																
+																																							
+\id	2																																						
+\srf	kú	kɛ́i	pà	//	máriage	ɓà,	'níe	ŋwɔ̀	//	màríage	!ɓɛ́	Zálikɔ̀lɛ																											
+\ftf	nous	venions	pour	le	marriage	de	mon	frère,	ici	à	Zalikɔlɛ																												
+\mb	kú	kɛ́i	pà	máriage	ɓà,	líe	ŋwɔ̀	màríage	ɓɛ́	Zálikɔ̀lɛ																													
+\ge	1pl.excl.bse	imperf	come\l	marriage	at.the.side	1sg/elder.sibling	3sg.poss	marriage	here	Nzerekore																													
+\ps	pm	part	v	n	pp	n	part	n	adv	n																													
+																																							
+\id	3																																						
+\srf	màáhɔ̀lɔɓó	nɛ̀á	è	kɛ̀	Zálikɔ̀lɛ																																		
+\ftf	parce	que	sa	femme	etait	à	Zalikɔlɛ,																																
+\mb	màáhɔ̀lɔɓó	nɛ̀á	è	kɛ̀	Zálikɔ̀lɛ																																		
+\ge	because	3sg/wife	3sg.base	be	Nzerekore																																		
+\ps	conj	n	pm	v	n																																		
+																																							
+\id	4																																						
+\srf	nɛ̀ɛnú!	yíi	gàa	pái	!kɛ́i	jèɣêi,	yíri	è	kɛ̀	Zálikɔ̀lɛ																													
+\ftf	la	femme	qu’il	allait	prendre,	elle	etait	à	Zalikɔlɛ																														
+\mb	nɛ̀ɛnú	yíi	kàa	pá	-i	!kɛ́i	hèɣê	-i	yíli	è	kɛ̀	Zálikɔ̀lɛ																											
+\ge	woman	that	3sg/cop	come	-inf	imperf	take	-inf	that	3sg.base	be	Nzerekore																											
+\ps	n	dtm	part	v	-mrph	part	v	-mrph	pron	pm	v	n																											
+																																							
+\id	5																																						
+\srf	kú	pá	gare	voiture	Màtâm	%																																	
+\ftf	nous	sommes	venus	à	la	gare	Matam																																
+\mb	kú	pá	gare	voiture	Màtâm																																		
+\ge	1pl.excl.bse	come	station	car	Matam																																		
+\ps	pm	v	n	n	n																																		
+																																							
+\id	6																																						
+\srf	mɔ̀ɓílii	yíi	kú	kɛ́i	pà	tɛ́i	zù																																
+\ftf	la	voiture	dans	laquelle	on	devait	s’embarquer																																
+\mb	mɔ̀ɓíli	-i	yíi	kú	kɛ́i	pà	tɛ́	-i	hù																														
+\ge	car	-def	that	1pl.excl.bse	imperf	come	go.up	-inf	in																														
+\ps	n	-mrph	dtm	pm	part	v	v	-mrph	pp																														
+																																							
+\id	7																																						
+\srf	eh,	nàa	ɓɛ́	'ŋé	//	Kwɛ́likɔlɔ	kàa	là																															
+\ftf	eh,	c’est	là-bas	que	j’ai	vu	Kwɛlikɔlɔ																																
+\mb	eh,	làa	ɓɛ́	ŋé	Kwɛ́likɔlɔ	kàa	là																																
+\ge	eh	there	here	1sg.base	Kwelikolo	see	on																																
+\ps	itj	adv	adv	pm	n	v	pp																																
+																																							
+\id	8																																						
+\srf	Kwɛ́likɔlɔ	bon	//	kwíinɛ́ɛnù	ká	tíi	kɛ́	%																															
+\ftf	Kwɛlikɔlɔ,	bon,	c’etait	une	blanche																																		
+\mb	Kwɛ́likɔlɔ	bon	kwíi	-nɛ́ɛnù	ká	tíi	kɛ́																																
+\ge	Kwelikolo	well	white.person	-woman	cop	that	be																																
+\ps	n	itj	n	-n	part	dtm	v																																
+																																							
+\id	9																																						
+\srf	kwíinɛ́ɛnù	ká	tíi,	mais																																			
+\ftf	c’est	une	blanche,	mais																																			
+\mb	kwíi	-nɛ́ɛnù	ká	tíi,	mais																																		
+\ge	white.person	-woman	cop	that	but																																		
+\ps	n	-n	part	dtm	conj																																		
+																																							
+\id	10																																						
+\srf	è	pà	kpɛ̀lɛɛwòo	//	yɛ̀	'míi	nàa	è	pà	kpɛ̀lɛɛwòo	màakwélîi																												
+\ftf	elle	m’a	dit	qu’elle	est	venue	pour	apprendre	le	kpɛlɛɛ																													
+\mb	è	pà	kpɛ̀lɛɛ	-wòo	yɛ̀	míi	làa	è	pà	kpɛ̀lɛɛ	-wòo	màa-kwɛ́lîi																											
+\ge	3sg.base	come	kpelle	-language	3sg.q	1sg/on	there	3sg.base	come	kpelle	-language	learn																											
+\ps	pm	v	n	-n	pm	pp	adv	pm	v	n	-n	v																											
+																																							
+\id	11																																						
+\srf	è	kɛ̀	tíi	//	bon																																		
+\ftf	comme	ça,	bon																																				
+\mb	è	kɛ̀	tíi	bon																																			
+\ge	3sg.base	be	that	well																																			
+\ps	pm	v	dtm	itj																																			
+																																							
+\id	12																																						
+\srf	ŋàa	kɛ́	ŋwɔ̀	clip	tà	káa	kɛ́																																
+\ftf	j’avais	vu	un	de	ses	clips																																	
+\mb	ŋàa	kɛ́	ŋwɔ̀	clip	tà	káa	kɛ́																																
+\ge	1sg.res	retr	3sg.poss	clip	one	see	do																																
+\ps	pm	part	part	n	pron	v	v																																
+																																							
+\id	13																																						
+\srf	ŋwɔ̀	clip	!tíi	è	kɛ̀	'ŋwɔ́	telephone	hù																															
+\ftf	son	clip	etait	dans	mon	telephone																																	
+\mb	ŋwɔ̀	clip	tíi	è	kɛ̀	ŋwɔ́	telephone	hù																															
+\ge	3sg.poss	clip	that	3sg.base	be	1sg.poss	telephone	in																															
+\ps	part	n	dtm	pm	v	part	n	pp																															
+																																							
+\id	14																																						
+\srf	donc	//	'ŋ́é	gàa	lɔ́	tíi,	et	puis,	è	kpɛ̀lɛɛwòo	ɓóa	kɔ́wɔ	tɔ́ɔ																										
+\ftf	donc,	je	l’avais	vue,	et	puis	elle	a	commencé	à	parler	le	kpele																										
+\mb	donc	ŋ́é	kàa	lɔ́	tíi,	et	puis,	è	kpɛ̀lɛɛ	-wòo	ɓó	-a	kɔ́ɣɔ	tɔ́ɔ																									
+\ge	so	1sg.base	1sg/see	only	that	and	then	3sg.base	kpelle	-language	say	-ger	leg	make																									
+\ps	conj	pm	v	adv	dtm	conj	adv	pm	n	-n	v	-mrph	n	v																									
+																																							
+\id	15																																						
+\srf	et	puis	'ŋé	màaní	!kɛ́	'gɛ́	mà	a!																															
+\ftf	Et	puis	je	lui	ai	demandé,	a																																
+\mb	et	puis	ŋé	màaní	kɛ́	gɛ́	mà	a!																															
+\ge	and	then	1sg.base	question	do	1sg.q	3sg/on	ah																															
+\ps	conj	adv	pm	n	v	pm	pp	itj																															
+																																							
+\id	16																																						
+\srf	nú	tà	ŋwɔ̀	clip	káa	'ɲêi																																	
+\ftf	j’ai	un	clip	d’une	personne																																		
+\mb	nú	tà	ŋwɔ̀	clip	káa	yêi																																	
+\ge	human	one	3sg.poss	clip	foc	1sg/hand.loc																																	
+\ps	n	pron	part	n	part	n																																	
+																																							
+\id	17																																						
+\srf	est-ce	que	'éwɔ	clip	!hó	lí?																																	
+\ftf	est-ce	que	c’est	pas	ton	clip?																																	
+\mb	est-ce	que	éwɔ	clip	hó	lí?																																	
+\ge	this.is	what	2sg.poss	clip	base.neg	cop																																	
+\ps	pron	pron	part	n	pm	part																																	
+																																							
+\id	18																																						
+\srf	yɛ̀	'míi	nàa	yàa	lí,	donc																																	
+\ftf	elle	m’a	dit	c’est	elle,	donc																																	
+\mb	yɛ̀	'míi	làa	yàa	lí,	donc																																	
+\ge	3sg.q	1sg/on	there	3sg.aut	cop	so																																	
+\ps	pm	pp	adv	pron	part	conj																																	
+																																							
+\id	19																																						
+\srf	yíli	hú,	kú	kɔ́ɣɔ	tɔ́ɔ	kúo	lí	à	!hɔ̀wɔ́ɔŋ																														
+\ftf	ainsi,	nous	avons	commencé	a	causer																																	
+\comm	(norm	–	gɔ̀ɣɔ́)																																				
+\comm	hɔ́wɔ́ɔ́ŋ́	wóó	!ká	tíí	–	c’est	une	causerie																															
+\mb	yíli	hú,	kú	kɔ́ɣɔ	tɔ́ɔ	kúo	lí	à	hɔ̀wɔ́ɔŋ																														
+\ge	that	in	1pl.excl.base	leg	make	1pl.excl.aut	go	with	conversation																														
+\ps	pron	pp	pm	n	v	pron	v	prer	n																														
+																																							
+\id	20																																						
+\srf	pèle	ɓé	kú	kée	kɔ̀lɔŋ	ná																																	
+\ftf	c’est	comme	ça	que	nous	nous	sommes	connus																															
+\mb	pèle	ɓé	kú	kée	kɔ̀lɔŋ	lá																																	
+\ge	way	cop	1pl.excl.base	rcp	know	on																																	
+\ps	n	part	pm	part	v	pp																																	
+																																							
+\id	21																																						
+\srf	kúwɔ	mɔ̀ɓílii	è	bougé,																																			
+\ftf	notre	vehicule	a	bougé																																			
+\mb	kúwɔ	mɔ̀ɓíli	-i	è	bougé																																		
+\ge	1pl.excl.poss	car	-def	3sg.base	move																																		
+\ps	part	n	-mrph	pm	v																																		
+																																							
+\id	22																																						
+\srf	kúwɔ	mɔ̀ɓílii	è	bougé,	kú	pá	háan	Coyah,																															
+\ftf	notre	vehicule	a	bougé,	nous	sommes	venus	jusqu’à	Coyah,																														
+\mb	kúwɔ	mɔ̀ɓíli	-i	è	bougé,	kú	pá	háan	Coyah																														
+\ge	1pl.excl.poss	car	-def	3sg.base	move	1pl.excl.base	come	until	Coyah																														
+\ps	part	n	-mrph	pm	v	pm	v	adv	n																														
+																																							
+\id	23																																						
+\srf	Kákà,	ɓɛ́i	tíi	barrage	káa	là																																	
+\ftf	Kaka,	là	où	il	y	a	le	barrage																															
+\mb	Kákà,	ɓɛ́	-i	tíi	barrage	káa	là																																
+\ge	Kaka	here	-def	that	dam	cop	there																																
+\ps	n	adv	-mrph	dtm	n	part	adv																																
+																																							
+\id	24																																						
+\srf	kú	kɛ́...	kúwo	mɔ̀ɓílii	è	kɛ́i	!lɔ́	lɛ́ɣɛ	làa,	mɔ̀ɓílii	è	kálâ																											
+\ftf	au	moment	où	notre	voiture	s’approcha	de	cet	endroit,	la	voiture	s’est	gatée																										
+\mb	kú	kɛ́...	kúwo	mɔ̀ɓíli	-i	è	kɛ́i	lɔ́	lɛ́ɣɛ	làa,	mɔ̀ɓíli	-i	è	kálâ																									
+\ge	1pl.excl.base	do	1pl.excl.poss	car	-def	3sg.base	imperf	only	approach	there	car	-def	3sg.base	break																									
+\ps	pm	v	part	n	-mrph	pm	part	adv	v	adv	n	-mrph	pm	v																									
+																																							
+\id	25																																						
+\srf	kàlai	tíi	è	mò	chauffeur	è	kú	kélee	kú	hwíleŋ	nàa																												
+\ftf	après	que	la	voiture	s’est	gatée,	il	nous	a	tous	debarqué	là																											
+\mb	kàla	-i	tíi	è	ɓò	chauffeur	è	kú	kélee	kú	hwíleŋ	làa																											
+\ge	rubbish	-def	that	3sg.base	3sg/do\l	driver	3sg.base	1pl.excl.pf	all	1pl.excl.base	go.down	there																											
+\ps	n	-mrph	dtm	pm	v	n	pm	pron	dtm	pm	v	adv																											
+																																							
+\id	26																																						
+\srf	yɛ̀	mà	'gáa	pènéi	tàa	kwèi,																																	
+\ftf	il	dit,	je	vais	me	retourner	en	ville																															
+\mb	yɛ̀	mà	káa	pèné	-i	tàa	kwèi,																																
+\ge	3sg.q	3sg/on	1sg/be	return	-inf	town	stomach.loc																																
+\ps	pm	pp	v	v	-mrph	n	n																																
+																																							
+\id	27																																						
+\srf	è	lí	è	mɔ̀ɓílii	kpɛ̀tɛ,	à	mɔ̀ɓílii	kpɛ̀tɛ	kɛ̀áǐ,	è	péne	è	pá																										
+\ftf	Il	va	reparer	la	voiture,	quand	il	repare,	il	revient																													
+\mb	è	lí	è	mɔ̀ɓíli	-i	kpɛ̀tɛ,	à	mɔ̀ɓíli	-i	kpɛ̀tɛ	kɛ̀á	-ǐ,	è	péne	è	pá																							
+\ge	3sg.base	go	3sg.base	car	-def	make	with	car	-def	make	now	-def	3sg.base	return	3sg.base	come																							
+\ps	pm	v	pm	n	-mrph	v	prep	n	-mrph	v	adv	-mrph	pm	v	pm	v																							
+																																							
+\id	28																																						
+\srf	è	gɛ̀	kwé	lí	kɛ̀â	-																																	
+\ftf	pour	que	nous	partions	maintenant																																		
+\mb	è	kɛ̀	kwé	lí	kɛ̀â																																		
+\ge	3sg.base	1sg/do\l	1pl.excl.base	go	now																																		
+\ps	pm	v	pm	v	adv																																		
+																																							
+\id	29																																						
+\srf	yà	ɓé	kɛ̀â	kú	híe	!la	kú	kwɛ́an																															
+\ftf	c’est	comme	ça	que	nous	avons	marché	à	pied																														
+\comm	kwɛ̰́á̰	mrphor	kɔ́ɣɔ́	ɲá	-	a	pied																																
+\mb	yà	ɓé	kɛ̀â	kú	híe	la	kú	kwɛ́an																															
+\ge	3sg.aut	cop	then	1pl.excl.base	walk	on	1pl.excl.base	walk.by.foot																															
+\ps	pron	part	adv	pm	v	pp	pm	v																															
+																																							
+\id	30																																						
+\srf	pont	tà	káa	làa	%																																		
+\ftf	il	y	a	un	pont	là-bas																																	
+\mb	pont	tà	káa	làa																																			
+\ge	bridge	one	cop	there																																			
+\ps	n	pron	part	adv																																			
+																																							
+\id	31																																						
+\srf	Kákà	ɓɛ́i	tíi	pont	kwɛ́an	tà	lí?																																
+\ftf	Là	à	Kaka,	un	pont ??																																		
+\mb	Kákà	ɓɛ́	-i	tíi	pont	kwɛ́an	tà	lí?																															
+\ge	Kaka	here	-def	that	bridge	walking	some	cop																															
+\ps	n	adv	-mrph	dtm	n	adj	n	part																															
+																																							
+\id	32																																						
+\srf	'vé	gɔ̀lɔ́ŋ	que	chinoiɣàa	ɓé	dɔ̀ɔ	ou	bien	japoneɣàa																														
+\ftf	je	ne	sais	pas	si	c’est	les	chinois	qui	l’ont	construits	ou	les	japonais																									
+\mb	vé	kɔ̀lɔ́ŋ	que	chinoi	-ɣàa	ɓé	tɔ̀ɔ	ou	bien	japone	-ɣàa																												
+\ge	1sg.base.neg	1sg/know	what	chenese.man	-pl	cop	build	or	well	japanese.man	-pl																												
+\ps	pm	v	pron	n	-mrph	part	v	conj	itj	n	-mrph																												
+																																							
+\id	33																																						
+\srf	kɛ́lɛɛ	kú	híe	!lɔ́	bòŋ́	tíi	mɛ̀i	kú	héli	háan	Kaka	kɛ̀â																											
+\ftf	on	a	marché	sur	ce	pont	jusqu’à	aller	à	Kaka,																													
+\mb	kɛ́lɛɛ	kú	híe	lɔ́	bòŋ́	tíi	mɛ̀i	kú	héli	háan	Kaka	kɛ̀â																											
+\ge	but	1pl.excl.base	walk	only	tree.that.growes.near.water	that	on	1pl.excl.base	arrive	until	Kaka	then																											
+\ps	conj	pm	v	adv	n	dtm	pp	pm	v	adv	n	adv																											
+																																							
+\id	34																																						
+\srf	ɓɛ́i	tíi	zɔ̀láhiŋaa	dìwɔ́	barrage	káa	làa																																
+\ftf	là	ou	se	trouve	le	barrage	des	militaires																															
+\comm	hɔ́láhí	-	soldat																																				
+\mb	ɓɛ́	-i	tíi	hɔ̀láhi	-ŋaa	dìwɔ́	barrage	káa	làa																														
+\ge	here	-def	that	soldier	-pl	3pl.poss	barrage	cop	there																														
+\ps	adv	-mrph	dtm	n	-mrph	par	n	part	adv																														
+																																							
+\id	35																																						
+\srf	nàa	ɓé	kwé	lí	kú	hée	làa																																
+\ftf	c’est	là	où	nous	sommes	allés	nous	asseoir																															
+\mb	làa	ɓé	kwé	lí	kú	hée	làa																																
+\ge	def/place	cop	1pl.excl.base	go	1pl.excl.base	sit	there																																
+\ps	n	part	pm	v	pm	v	adv																																
+																																							
+\id	36																																						
+\srf	kú	nàa	màakpɔ́ŋ																																				
+\ftf	en	train	d’attendre																																				
+\mb	kú	làa	màa-kpɔ́ŋ																																				
+\ge	1pl.excl.base	def/place	wait																																				
+\ps	pm	n	v																																				
+																																							
+\id	37																																						
+\srf	élɛɛ	láa	zù	hùtíli	è	kɛ́i	kɛ̀â	pú	19h	lɔ̀wai																													
+\ftf	le	crepuscule	est	tombé	à	19h																																	
+\comm	19h 	=	pòǔ 	kɔ́ú 	mɛ̀ì 	nááŋ́																																	
+\mb	élɛɛ	láa	hù	hùtíli	è	kɛ́i	kɛ̀â	pú	19	heure	-s	lowai																											
+\ge	then	place	in	twilight	3sg.base	imperf	then	spill	nineteen	hour	-pl	at																											
+\ps	part	n	pp	n	pm	part	adv	v	num	n	-mrph	pp																											
+																																							
+\id	38																																						
+\srf	chauffeur	è	péne	è	pá	%																																	
+\ftf	le	chauffeur	est	revenu																																			
+\mb	chauffeur	è	péne	è	pá																																		
+\ge	driver	3sg.base	return	3sg.base	come																																		
+\ps	n	pm	v	pm	v																																		
+																																							
+\id	39																																						
+\srf	kú	tɛ́	kɛ̀á	mɔ̀ɓílii	hù,	kúo	kɛ̀á	pà																															
+\ftf	nous	sommes	montés	dans	la	voiture,	en	train	de	venir	à	Nzerekore																											
+\mb	kú	tɛ́	kɛ̀á	mɔ̀ɓíli	-i	hù,	kúo	kɛ̀á	pà																														
+\ge	1pl.excl.base	go.up	already	car	-def	in	1.pl.excl.cons	already	come\l																														
+\ps	pm	v	adv	n	-mrph	pp	pm	adv	v																														
+																																							
+\id	40																																						
+\srf	kú	tɛ́	mɔ̀ɓílii	hù																																			
+\ftf	nous	sommes	montés	dans	la	voiture…																																	
+\mb	kú	tɛ́	mɔ̀ɓíli	-i	hù																																		
+\ge	1pl.excl.base	go.up	car	-def	in																																		
+\ps	pm	v	n	-mrph	pp																																		
+																																							
+\id	41																																						
+\srf	bon,	comme	kɛ̀á	ɓɛ́	lɔ̀wai	tíi	kú	tɛ́	là	mɔ̀ɓílii	hù,	kpíni	àá	gbɛ̀a	kɛ́	pɛ̀lɛ																							
+\ftf	bon,	comme	au	moment	où	nous	nous	sommes	embarqués	dans	la	voiture,	il	faisait	deja	nuit																							
+\mb	bon,	comme	kɛ̀á	ɓɛ́	lòwai	tíi	kú	tɛ́	là	mɔ̀ɓíli	-i	hù,	kpíni	àá	gbɛ̀a	kɛ́	pɛ̀lɛ																						
+\ge	well	as	already	here	at	that	1pl.excl.base	go.up	with.it	car	-def	in	night	3sg.prf	already	do	lie.down																						
+\ps	itj	conj	adv	adv	pp	dtm	pm	v	pron	n	-mrph	pp	n	pm	adv	v	v																						
+																																							
+\id	42																																						
+\srf	kú	pá	háan	Mamou,																																			
+\ftf	nous	sommes	venus	jusqu’à	Mamou																																		
+\mb	kú	pá	háan	Mamou,																																			
+\ge	1pl.excl.base	come	until	Mamou																																			
+\ps	pm	v	adv	n																																			
+																																							
+\id	43																																						
+\srf	Mamou,	kú	héli	Mamou,	è	kɛ̀	tíi,																																
+\ftf	nous	sommes	venus	a	Mamou,	voilà																																	
+\mb	Mamou,	kú	héli	Mamou,	è	kɛ̀	tíi,																																
+\ge	Mamou	1pl.excl.base	arrive	Mamou	3sg.base	do	that																																
+\ps	n	pm	v	n	pm	v	dtm																																
+																																							
+\id	44																																						
+\srf	kwíi	!hɛ́an	ká	tíi	kɛ́	kɛ̀â																																	
+\ftf	il	faisait	deja	pleine	nuit																																		
+\comm	kwíí	!hɛ̰́á̰	-	le	mileu	de	la	nuit,	la	pleine	nuit																												
+\mb	kwíi	hɛ́an	ká	tíi	kɛ́	kɛ̀â																																	
+\ge	night	back	cop	that	do	now																																	
+\ps	n	n	part	dtm	v	adv																																	
+																																							
+\id	45																																						
+\srf	màáhɔ̀lɔɓó	23h-0h,	àá	lɛ̀ɣɛ	kɛ́																																		
+\ftf	parce	qu’il	etait	23h	ou	0h	maintenant																																
+\comm	23	=	pòǒ 	hwéélɛ̀	háábà																																		
+\mb	màáhɔ̀lɔɓó	23h-0h,	àá	lɛ̀ɣɛ	kɛ́																																		
+\ge	because	time.around.midnight	3sg.prf	approach	do																																		
+\ps	conj	num	pm	v	v																																		
+																																							
+\id	46																																						
+\srf	mɔ̀ɓíliinàmu	yɛ̀	mà	ɲɛ̀í	màánɛ̀ɛ́	kú	yíi	làa																															
+\ftf	le	chauffeur	a	dit	que	nous	allons	y	passer	la	nuit	là-bas																											
+\mb	mɔ̀ɓíli	-i	-nàmu	yɛ̀	mà	ɲɛ̀í	màánɛ̀ɛ́	kú	yíi	làa																													
+\ge	car	-def	-possessor	3sg.q	3sg/on	this	it.is.necessary.that	1pl.excl.base	spend.night	there																													
+\ps	n	-mrph	n	pm	pp	dtm	conj	pm	v	adv																													
+																																							
+\id	47																																						
+\srf	yà	ɓé	kɛ̀á	kú	yíi	!Mamou																																	
+\ftf	c’est	ainsi	qu’on	a	passé	la	nuit	à	Mamou																														
+\mb	yà	ɓé	kɛ̀á	kú	yíi	Mamou																																	
+\ge	3sg.aut	foc	then	1pl.excl.base	spend.night	Mamou																																	
+\ps	pron	part	adv	pm	v	n																																	
+																																							
+\id	48																																						
+\srf	kɛ́lɛɛ	Mamou	ɓɛ́i	kwé	lí	kú	yíi	làa	station	ta	ká	tíi	kɛ́																										
+\ftf	mais	à	Mamou	là	où	nous	avons	dormi	c’etait	une	station																												
+\mb	kɛ́lɛɛ	Mamou	ɓɛ́	-i	kwé	lí	kú	yíi	làa	station	ta	ká	tíi	kɛ́																									
+\ge	but	Mamou	here	-def	1pl.excl.base	go	1pl.excl.base	spend.night	there	station	one	cop	that	do																									
+\ps	conj	n	adv	-mrph	pm	v	pm	v	adv	n	pron	part	dtm	v																									
+																																							
+\id	49																																						
+\srf	mìsílipɛ̀lɛ	tà	ɓé	dì	kú	lɔ́	làa	mù																															
+\ftf	c’est	dans	une	mosquée	qu’ils	nous	ont	fait	rentrer																														
+\mb	mìsíli	-pɛ̀lɛ	tà	ɓé	dì	kú	lɔ́	làa	mù																														
+\ge	mosque	-house	one	foc	3pl.base	1pl.excl.pf	enter	there	under																														
+\ps	n	-n	pron	part	pm	pron	v	adv	pp																														
+																																							
+\id	50																																						
+\srf	mìsílipɛ̀lɛi	tíi	ɓé	kɛ̀â	kú	yíi	mù																																
+\ftf	c’est	dans	cette	mosquée	que	nous	avons	finalement	passé	la	nuit																												
+\mb	mìsíli	pɛ̀lɛ	-i	tíi	ɓé	kɛ̀â	kú	yíi	mù																														
+\ge	mosque	-house	-def	that	foc	then	1pl.excl.pf	spend.night	under																														
+\ps	n	-n	-mrph	dtm	part	adv	pron	v	pp																														
+																																							
+\id	51																																						
+\srf	háan	è	lɛ́ɛ	lá	zù	yèlé	è	ɓɔ́																															
+\ftf	jusqu’à	ce	qu’il	fasse	jour,																																		
+\mb	háan	è	lɛ́ɛ	lá	hù	yèlé	è	ɓɔ́																															
+\ge	until	3sg.base	remain	with.it	in	day	3sg.base	come																															
+\ps	adv	pm	v	pron	pp	n	pm	v																															
+																																							
+\id	52																																						
+\srf	yèlé	è	ɓɔ́	kɛ̀â	%																																		
+\ftf	maintenant	le	jour	est	venu																																		
+\mb	yèlé	è	ɓɔ́	kɛ̀â																																			
+\ge	day	3sg.base	come	now																																			
+\ps	n	pm	v	adv																																			
+																																							
+\id	53																																						
+\srf	élɛɛ	kú	kú	mìhéɣe	kɛ̀â	kú	bèle	hóŋ	ŋwɔ́nɔ	kúo	lî																												
+\ftf	ainsi	nous	nous	sommes	levés	et	nous	avons	pris	encore	la	route	pour	partir	(continuer)																								
+\mb	élɛɛ	kú	kú	mì-héɣe	kɛ̀â	kú	pèle	hóŋ	ŋwɔ́nɔ	kúo	lî																												
+\ge	then	1pl.excl.base	1pl.excl.pf	rise	then	1pl.excl.base	def/way	catch	again	1pl.excl.cons	go																												
+\ps	part	pm	pron	v	adv	pm	n	v	adv	pm	v																												
+																																							
+\id	54																																						
+\srf	kú	lɛ́ɛ	lìi,	kú	lɛ́ɛ	lìi,	kú	héli	Faranah																														
+\ftf	nous	avons	continué	à	partir,	nous	sommes	arrivés	à	Faranah																													
+\mb	kú	lɛ́ɛ	lì	-i,	kú	lɛ́ɛ	lì	-i,	kú	héli	Faranah																												
+\ge	1pl.excl.base	continue	go	-inf	1pl.excl.base	continue	go	-inf	1pl.excl.base	arrive	Faranah																												
+\ps	pm	v	v	-mrph	pm	v	v	-mrph	pm	v	n																												
+																																							
+\id	55																																						
+\srf	Faranah	ŋwɔ́nɔ	mɔ̀ɓílii	è	tɔ́ɔ	làa,	màáhɔ̀lɔɓó	nùí	tíi	ŋwɔ̀	mɔ̀ɓílii	//	è	kɛ́i	kàla																								
+\ftf	à	Faranah	encore	le	vehicule	s’est	arreté,	parce	que	le	vehicule	de	ce	mec-là	se	gatait																							
+\mb	Faranah	ŋwɔ́nɔ	mɔ̀ɓíli	-i	è	tɔ́ɔ	làa,	màáhɔ̀lɔɓó	nù	-í	tíi	ŋwɔ̀	mɔ̀ɓíli	-i	è	kɛ́i	kàla																						
+\ge	Faranah	again	car	-def	3sg.base	stop	there	because	human	-def	that	3sg.poss	car	-def	3sg.base	imperf	break																						
+\ps	n	adv	n	-mrph	pm	v	adv	conj	n	-mrph	dtm	part	n	-mrph	pm	part	v																						
+																																							
+\id	56																																						
+\srf	donc,	màánɛ̀ɛ́	kɛ́	ŋwɔ́nɔ	è	tɔ́ɔ	ɓɛ́i	tíi	è	mɔ̀ɓílii	!tíi	kpɛ́tɛ																											
+\ftf	donc	il	fallait	encore	qu’il	s’arrete	là-bas	pour	reparer	la	voiture-là																												
+\mb	donc,	màánɛ̀ɛ́	kɛ́	ŋwɔ́nɔ	è	tɔ́ɔ	ɓɛ́	-i	tíi	è	mɔ̀ɓíli	-i	tíi	kpɛ́tɛ																									
+\ge	so	it.is.necessary.that	retr	again	3sg.base	stop	here	-def	that	3sg.base	car	-def	that	make																									
+\ps	conj	conj	part	adv	pm	v	adv	-mrph	dtm	pm	n	-mrph	dtm	v																									
+																																							
+\id	57																																						
+\srf	è	kú	lɛ́ɛ	làa	ŋwɔ́nɔ	è	lí	mɔ̀ɓílii	!kpɛ́tɛ̂i;																														
+\ftf	il	nous	a	laissé	encore	pour	aller	faire	reparer	le	vehicule																												
+\mb	è	kú	lɛ́ɛ	làa	ŋwɔ́nɔ	è	lí	mɔ̀ɓíli	-i	kpɛ́tɛ̂	-i																												
+\ge	3sg.base	1pl.excl.pf	leave	there	again	3sg.base	go	car	-def	make	-inf																												
+\ps	pm	pron	v	adv	adv	pm	v	n	-mrph	v	-mrph																												
+																																							
+\id	58																																						
+\srf	nàa	ɓé	kú	hée	làa,	kú	kɔ́nɔŋ	dà	wólo	mɛ̀ɛ	%																												
+\ftf	c’est	là	où	nous	nous	sommes	assis,	nous	avons	mangé	un	peu																											
+\mb	làa	ɓé	kú	hée	làa,	kú	kɔ́nɔŋ	tà	wólo	mɛ̀ɛ																													
+\ge	def/place	foc	1pl.excl.base	sit	there	1pl.excl.base	food	one	a.little	eat																													
+\ps	n	part	pm	v	adv	pm	n	pron	dtm	v																													
+																																							
+\id	59																																						
+\srf	bon,	'náa	nà	fláŋaa	dìe	kpɛ́li	dì	pɔ́ɔli,	'vé	gɔ̀lɔ́ŋ	kɛ́	Màréelàa	lí	kɛ́	à	wàla	kɛ́	tíi	Tàmagálî	kú	tɔ́ɔ	làa,	kù	kɔ́nɔŋ	mɛ́ɛ	ŋwɔ́nɔ	làa	%											
+\ftf	je	crois	que	chez	les	peuls	aussi,	je	sais	pas	si	c’etait	à	Mareelaa	ou	à	Tamagalii	que	nous	nous	sommes	arretés	là	et	nous	avons	mangé	encore											
+\mb	bon,	ŋáa	là	fláŋaa	dìe	kpɛ́li	dì	pɔ́ɔli,	vé	kɔ̀lɔ́ŋ	kɛ́	Màréelàa	lí	kɛ́	à	wàla	kɛ́	tíi	Tàmagálî	kú	tɔ́ɔ	làa,	kù	kɔ́nɔŋ	mɛ́ɛ	ŋwɔ́nɔ	làa												
+\ge	well	1sg.prf	on	fulani.pl	3pl/on	also	3pl.pf	at	1sg.base.neg	know	do	Mareelaa	cop	do	with	cond.neg	do	that	Tamagalii	1pl.excl.base	stop	there	1pl.excl.base	food	eat	again	there												
+\ps	itj	pm	pp	n	pp	dtm	pron	pp	pm	v	v	n	part	v	prep	part	v	dtm	n	pm	v	adv	pm	n	v	adv	adv												
+																																							
+\id	60																																						
+\srf	dàŋáa	dìé	càfé	kpèle,	'náa	nà	Kólkolo	ŋwɛ̀í,	càfé	ɓé	è	gbèle																											
+\ftf	certains	ont	bu	le	café,	je	crois	que	K.	elle	a	pris	du	café																									
+\mb	dà	-ŋáa	dìé	càfé	kpèle,	láa	là	Kólkolo	ŋwɛ̀í,	càfé	ɓé	è	kpèle																										
+\ge	3.and	-pl	3pl/on	coffee	drink	1sg/believe	on	Kolkolo	3sg.top1	coffee	foc	3sg.base	3sg/drink																										
+\ps	conj	-mrph	pp	n	v	v	pp	n	pron	n	part	pm	v																										
+																																							
+\id	61																																						
+\srf	...càfé	kpèle	làa,	kúwɛ̀í	ɓá	ɓé	kú	mìí																															
+\ftf	ils	ont	pris	de	café,	quant	à	nous,	nous	avons	mangé	du	riz																										
+\mb	...càfé	kpèle	làa,	kú	-wɛ̀í	ɓá	ɓé	kú	mìí																														
+\ge	coffee	drink	there	1pl.excl.pf	-contr	boiled.rice	foc	1pl.excl.base	eat																														
+\ps	n	v	adv	pron	-part	n	part	pm	v																														
+																																							
+\id	62																																						
+\srf	donc	après	ku	continuer,	Faranah	kú	tɔ̀ɔ́	làa																															
+\ftf	après	nous	avons	continué,	c’est	à	Faranah	que	nous	nous	sommes	arretés																											
+\mb	donc	après	ku	continuer,	Faranah	kú	tɔ̀ɔ́	làa																															
+\ge	so	after.that	1pl.excl.base	continue	Faranah	1pl.excl.base	stop	there																															
+\ps	conj	conj	pm	v	n	pm	v	adv																															
+																																							
+\id	63																																						
+\srf	hèɣéi	kɛ̀â	kú	mò	Faranah,	'vé	láa	lí	nà,	à	kɛ̀	kú	tɔ́ɔ	kɛ̀â	kɛ̀	náa	tà	hwɛ́ɛ																			
+\ftf	quand	nous	avons	bougé	de	Faranah,	je	ne	pense	pas	que	nous	nous	sommes	encore	arretés	quelque	part,	sauf																				
+\comm	sauf	=	ho	kɛ́í/kɛ́lí																																			
+\mb	hèɣé	-i	kɛ̀â	kú	ɓò	Faranah,	vé	láa	lí	là,	à	kɛ̀	kú	tɔ́ɔ	kɛ̀â	kɛ̀	láa	tà	hwɛ́ɛ																				
+\ge	leave	-inf	then	1pl.excl.base	move.away	Faranah	1sg.base.neg	believe	cop	3sg/on	with	do	1pl.excl.base	stop	then	do	def/place	one	so.that																				
+\ps	v	-mrph	adv	pm	v	n	pm	v	part	pp	prep	v	pm	v	adv	v	n	pron	conj																				
+																																							
+\id	64																																						
+\srf	kú	pá	háan	Macenta,	Macenta	–	Jálikɔ̀lɛ,	Jálikɔ̀lɛ	kú	lɔ́	lɔ́	ɓɛ́	kɛ̀â,	è	kɛ̀	tíi,	è	kɛ́	tíi	kɛ̀â	22h																		
+\ftf	nous	sommes	venus	jusqu’à	Macenta,	Macenta	–	Zérekoré,	nous	sommes	arrivés	à	Z	à	22h																								
+\mb	kú	pá	háan	Macenta,	Macenta	–	Jálikɔ̀lɛ,	Jálikɔ̀lɛ	kú	lɔ́	lɔ́	ɓɛ́	kɛ̀â,	è	kɛ̀	tíi,	è	kɛ́	tíi	kɛ̀â	22h																		
+\ge	1pl.excl.base	come	until	Macenta	Macenta	–	Nzerekore	Nzerekore	1pl.excl.base	enter	only	here	then	3sg.base	do	that	3sg.base	do	that	at.the.moment	time																		
+\ps	pm	v	adv	n	n	–	n	n	pm	v	adv	adv	adv	pm	v	adv	pm	that	adv	adv	n																		
+																																							
+\id	65																																						
+\srf	ŋà	wàla	kpɔ́	lɛ̀an,	22h	lɔ̀wai	ɓé	kú	lɔ́	làa	Jálikɔ̀lɛ,																												
+\ftf	si	je	ne	me	trompe	pas,	c’est	à	22h	que	nous	sommes	entrés	à	Zaly																								
+\mb	ŋà	wàla	kpɔ́	lɛ̀an,	22h	lòwai	ɓé	kú	lɔ́	làa	Jálikɔ̀lɛ,																												
+\ge	1sg.irr	cond.neg	very	forget	time	at	foc	1pl.excl.base	enter	there	Nzerekore																												
+\ps	pm	part	adv	v	v	pp	part	pm	v	adv	n																												
+																																							
+\id	66																																						
+\srf	donc,	jìei	tíi	è	tɛ̀ɛ	kpɔ́	à	nɛ̀lɛ́ɛ,	et	puis,	tɛ̀ɛi	tíi	è	mò	tíi,	nùá	!kɛ́	mɔ̀ɓíli	hù,	kwà	dìení	kú	kú	kéeni	kɔ́lɔŋ,	kú	kú	kéeni	dìwɔ́	numero	hèɣe,	et	puis						
+\ftf	donc,	le	voyage	s’est	bien	passé,	et	puis,	le	fait	que	cela	c’est	passé	ainsi,	les	gens	qui	etaient	dans	la	voiture,	ils	ont	échangé	des	numeros,	et	puis										
+\mb	donc,	hìe	-i	tíi	è	tɛ̀ɛ	kpɔ́	à	lɛ̀lɛ́	-ɛ,	et	puis,	tɛ̀ɛ	-i	tíi	è	ɓò	tíi,	nùá	kɛ́	mɔ̀ɓíli	hù,	kwà	dìeŋ́	-í	kú	kú	kée	-ni	kɔ́lɔŋ,	kú	kú	kée	-ni	dìwɔ́	numero	hèɣe,	et	puis
+\ge	so	voyage	-def	that	3sg.base	pass	very	with	3sg/be.beautifil	-ger	and	then	pass	-inf	that	3sg.base	be	that	human.pl	do	car	in	1pl.excl.and	3pl.top2	-def	1pl.excl.base	1pl.excl.pf	rcp	-assoc	know	1pl.excl.base	1pl.excl.pf	rcp	-assoc	3pl.poss	number	take	and	then
+\ps	conj	n	-mrph	dtm	pm	v	adv	prep	v	-mrph	conj	adv	v	-mrph	adv	pm	v	adv	nùá	v	n	pp	conj	pron	-mrph	pm	pron	part	-mrph	v	pm	pron	part	-mrph	part	n	v	conj	adv
+																																							
+\id	67																																						
+\srf	nàa	ɓé	kú	kú	kée	kɔ́lɔŋ	nàa,	depuis	ɲèlei	tíi,	kwá	kɛ́	kú	kée	tólui,	kwá	kɛ́	kú	kée	káa																			
+\ftf	c’est	là	que	nous	nous	sommes	connus,	depuis	ces	jours,	nous	nous	appelons	et	nous	nous	voyons																						
+\mb	làa	ɓé	kú	kú	kée	kɔ́lɔŋ	làa,	depuis	yèle	-i	tíi,	kwá	kɛ́	kú	kée	tólu	i,	kwá	kɛ́	kú	kée	káa																	
+\ge	def/place	foc	1pl.excl.base	1pl.excl.base	rcp	know	def/name	since	def/day	-def	that	1pl.excl.hab	do	1pl.excl.base	rcp	call	-inf	1pl.excl.hab	do	1pl.excl.base	rcp	see																	
+\ps	n	part	pm	pm	part	v	n	conj	n	-mrph	dtm	pm	v	pm	part	v	-nrph	pm	v	pm	part	v																	
+																																							
+\id	68																																						
+\srf	nàa	ɓé	è	kpɛ̀la	làa																																		
+\ftf	c’est	là	cela	s’est	arreté																																		
+\mb	làa	ɓé	è	kpɛ̀la	làa																																		
+\ge	def/place	foc	3sg.base	finish	there																																		
+\ps	n	part	pm	v	adv																																		
