@@ -4,7 +4,7 @@ This is a project to create a corpus of texts in the Kpelle language.
 
 # Kpelle 
 
-The Kpelle language (Kpɛ̀lɛ̀ɛ̀) is spoken by the Kpelle people of Liberia, Guinea and Ivory Coast and is part of the Mande family of languages. Guinean Kpelle (also known as Guerze in French), spoken by half a million people, concentrated primarily in the forest regions of Guinea (Guinée forestière), with its capital in the city of Nzerekore (Nzérékoré), which is one of the major cities of Guinea and the largest city in Guinée forestière in the southeast of the country bordering Liberia, Ivory Coast, and the Sierra-Leone. 
+The Kpelle language (Kpɛ̀lɛ̀ɛ̀) is spoken by the Kpelle people of Liberia, Guinea and Ivory Coast and is part of the Mande family of languages. Guinean Kpelle (also known as Guerze in French), spoken by half a million people, concentrated primarily in the forest regions of Guinea (Guinée forestière), with its capital in the city of Nzerekore (Nzérékoré), which is one of the major cities of Guinea and the largest city in Guinée forestière in the southeast of the country bordering Liberia, Ivory Coast, and Sierra-Leone. 
 
 The Kpelle language is belong to the Mande language family and are part of the southwestern group of the family together with the languages Kono, Looma, Zialo, Bandi, Loko and Mende.
 
